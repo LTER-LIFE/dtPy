@@ -1,0 +1,3 @@
+[submodule "dtRemoteSensing"]
+	path = dtRemoteSensing
+	url = https://github.com/stanleesocca/dtRemoteSensing.git
